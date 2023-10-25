@@ -89,16 +89,6 @@ ul li.active a{
     color: #000;
 }
 
-.sub-menu{
-    display: none;
-    top: 6%;
-    position: relative;
-}
-
-.sub-menu ul{
-    position: absolute;
-}
-
 .main ul li:hover .sub-menu{
     display: block;
     position: absolute;
